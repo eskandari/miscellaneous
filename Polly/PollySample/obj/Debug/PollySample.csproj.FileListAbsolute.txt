@@ -1,0 +1,16 @@
+C:\@dev\Temp\Retry\WpfApplication1\obj\Debug\PollySample.csprojResolveAssemblyReference.cache
+C:\@dev\Temp\Retry\WpfApplication1\obj\Debug\MainWindow.baml
+C:\@dev\Temp\Retry\WpfApplication1\obj\Debug\App.baml
+C:\@dev\Temp\Retry\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\@dev\Temp\Retry\WpfApplication1\obj\Debug\App.g.cs
+C:\@dev\Temp\Retry\WpfApplication1\obj\Debug\PollySample_MarkupCompile.cache
+C:\@dev\Temp\Retry\WpfApplication1\obj\Debug\PollySample.g.resources
+C:\@dev\Temp\Retry\WpfApplication1\obj\Debug\PollySample.Properties.Resources.resources
+C:\@dev\Temp\Retry\WpfApplication1\obj\Debug\PollySample.csproj.GenerateResource.Cache
+C:\@dev\Temp\Retry\WpfApplication1\bin\Debug\PollySample.exe.config
+C:\@dev\Temp\Retry\WpfApplication1\bin\Debug\PollySample.exe
+C:\@dev\Temp\Retry\WpfApplication1\bin\Debug\PollySample.pdb
+C:\@dev\Temp\Retry\WpfApplication1\bin\Debug\Polly.dll
+C:\@dev\Temp\Retry\WpfApplication1\bin\Debug\Polly.xml
+C:\@dev\Temp\Retry\WpfApplication1\obj\Debug\PollySample.exe
+C:\@dev\Temp\Retry\WpfApplication1\obj\Debug\PollySample.pdb

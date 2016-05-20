@@ -1,0 +1,11 @@
+﻿<Window x:Class="PollySample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <StackPanel>
+            <Button Name="Download" Click="Download_OnClick">Download</Button>
+            <TextBox Name="Output" TextWrapping="Wrap" Height="271"></TextBox>
+        </StackPanel>
+    </Grid>
+</Window>
